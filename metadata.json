@@ -1,0 +1,6 @@
+{
+  "name": "SparkAI",
+  "description": "Flagship native Android AI assistant with multi-turn chat, deep reasoning, live voice, vision, and creative studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
